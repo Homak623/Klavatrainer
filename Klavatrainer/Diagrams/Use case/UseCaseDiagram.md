@@ -9,7 +9,7 @@
 		1.2.3 [Начать тренировку](#1.2.3) <br>
       			1.2.3.1 [Поток событий](#1.2.3.1) <br>
  # 1. Диаграммы использования <a name = "1"></a>
- ![UseCase](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Diagrams/Use%20case/Use%20Case%20Diagram.png)
+ ![UseCase](https://github.com/Homak623/tritpo/blob/master/Diagrams/Use%20case/Use%20Case%20Diagram.png)
  ## 1.1 Описание актёров <a name = "1.1"></a>
  
 Класс пользователя     | Описание

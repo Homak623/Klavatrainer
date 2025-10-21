@@ -5,10 +5,10 @@
 4. [Тренировка на скорость](#3)<br>
 
 ## 1. Открытие окна справки <a name="1"></a>
-![Окно справки](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Diagrams/State/Reference.png) <br/>
+![Окно справки](https://github.com/Homak623/tritpo/blob/master/Diagrams/State/Reference.png) <br/>
 
 ## 2. Настройки <a name="2"></a>
-![Настройки](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Diagrams/State/Settings.png) <br/>
+![Настройки](https://github.com/Homak623/tritpo/blob/master/Diagrams/State/Settings.png) <br/>
 
 ## 3. Тренировка <a name="3"></a>
-![Обучение](https://github.com/AnastasiaKviatsinskaya/tritpo/blob/master/Diagrams/State/Training.png) <br/>
+![Обучение](https://github.com/Homak623/tritpo/blob/master/Diagrams/State/Training.png) <br/>
