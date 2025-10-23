@@ -8,7 +8,6 @@
   ![use Case Diagram 2](https://github.com/Homak623/Klavatrainer/blob/main/Diagrams/Use%20case/use_case_diagram_2.png.png)
 - **Use Case Diagram 3** — фокусируется на процессе тренировки, включая выбор уровня, текста и типа тренировки, а также отображение результатов.
   ![use Case Diagram 3](https://github.com/Homak623/Klavatrainer/blob/main/Diagrams/Use%20case/use_case_diagram_3.png.png)
-> **Примечание**: Диаграммы иллюстрируют отношения типа **`<<include>>`** (обязательное включение одного варианта использования в другой), что отражено в описаниях потоков событий ниже.
 
 ---
 
