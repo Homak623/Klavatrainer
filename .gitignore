@@ -1,0 +1,7 @@
+# Maven
+target/
+
+# Скомпилированные артефакты IntelliJ
+klavatrainer/out/
+*.class
+*.jar
